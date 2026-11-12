@@ -8,6 +8,18 @@
 
 > **Rol declarado:** Gerente Técnico en Plenumsoft Energy & Sustainability. Trabajo coordinado con el director, tres líderes de proyecto y equipos de desarrollo e instalación. Las responsabilidades personales se describen a partir del testimonio del autor; las características del proyecto se basan en una presentación corporativa de noviembre de 2019.
 
+## Vista general del proyecto
+
+![Recreación visual de las instalaciones de la Litoteca Nacional Yucatán](docs/assets/litoteca-instalaciones.png)
+
+*Recreación visual asistida por IA basada en una fotografía aportada por el autor. No es una fotografía documental exacta de las instalaciones.*
+
+## Sistema Kalan-Tun
+
+![Recreación visual del tablero de Kalan-Tun](docs/assets/kalan-tun-dashboard.png)
+
+*Recreación de interfaz asistida por IA basada en una captura histórica. Algunos textos, cifras y elementos visuales pueden diferir del sistema original.*
+
 ## Contexto
 
 La presentación **«Litoteca Nacional Yucatán PCTY»**, preparada para una visita al IMP el 22 de noviembre de 2019, documenta el proyecto de la Litoteca Nacional de la Industria de Hidrocarburos, sede Yucatán, desarrollado por el **Consorcio Geocientífico Yucatán**.
@@ -58,7 +70,7 @@ Se documentan proyectos de CCTV, control de acceso, enlace de datos con CNH/CNIH
 - **Responsabilidades personales:** confirmadas por el autor de este portafolio.
 - **Código fuente:** no disponible en este repositorio.
 - **Métricas:** se conservan las cifras y su contexto documental; no se inventan indicadores de impacto.
-- **Material corporativo:** no se redistribuyen el PDF, logos ni capturas originales sin revisión de permisos.
+- **Material visual:** el autor confirmó autorización para publicar las imágenes aportadas. Las dos imágenes incluidas son recreaciones asistidas por IA, no pruebas exactas de instalaciones o pantallas originales; el PDF corporativo completo no se distribuye.
 
 Consulta [fuentes, límites y pendientes](docs/FUENTES-Y-ALCANCE.md).
 
