@@ -26,6 +26,6 @@ Estas responsabilidades individuales **no aparecen acreditadas de manera nominal
 
 ## Propiedad intelectual
 
-El repositorio no publica el PDF corporativo, imágenes, código fuente, configuraciones ni datos de muestras. Se usa una síntesis textual con atribución y un encabezado SVG original para el portafolio.
+El repositorio no publica el PDF corporativo completo, código fuente, configuraciones ni datos de muestras. El autor confirmó autorización para publicar las imágenes aportadas. Se incluyen dos **recreaciones asistidas por IA** (`docs/assets/litoteca-instalaciones.png` y `docs/assets/kalan-tun-dashboard.png`) como material de presentación. No deben interpretarse como fotografías originales, capturas exactas ni evidencia de funciones adicionales. Se mantiene además un encabezado SVG original.
 
-**Pendiente:** autorización para reproducir imágenes corporativas específicas; stack confirmado de Kalan-Tun; fechas, entregables y resultados verificables.
+**Pendiente:** stack confirmado de Kalan-Tun; fechas, entregables y resultados verificables; publicación separada de fotografías y capturas históricas originales si se decide incluirlas.
