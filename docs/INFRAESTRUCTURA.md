@@ -1,5 +1,9 @@
 # Infraestructura tecnológica y proyectos de ingeniería
 
+![Recreación visual de instalaciones de Litoteca](assets/litoteca-instalaciones.png)
+
+*Recreación visual asistida por IA, no fotografía documental exacta de la infraestructura.*
+
 La presentación documenta infraestructura especializada para la Litoteca Nacional de la Industria de Hidrocarburos, sede Yucatán (págs. 23–28).
 
 ## Componentes
