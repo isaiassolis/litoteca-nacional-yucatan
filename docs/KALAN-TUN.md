@@ -1,5 +1,9 @@
 # Kalan-Tun · Sistema técnico y administrativo para la operación de litotecas
 
+![Recreación visual del tablero de Kalan-Tun](assets/kalan-tun-dashboard.png)
+
+*Imagen de presentación recreada con IA a partir de una captura histórica; los valores, módulos y detalles adicionales de la recreación no constituyen evidencia funcional.*
+
 La presentación de noviembre de 2019 denomina **Kalan-Tun** al sistema técnico y administrativo para la operación de la Litoteca Nacional (pág. 14).
 
 ## Sistema de gestión de información
