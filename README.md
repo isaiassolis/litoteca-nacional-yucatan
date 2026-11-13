@@ -2,71 +2,81 @@
 
 # Litoteca Nacional de la Industria de Hidrocarburos · Sede Yucatán
 
-### Caso de estudio profesional · Gerencia técnica de proyecto integral
+**Gerencia técnica integral · Software, infraestructura, logística y coordinación multidisciplinaria**
 
-**Coordinación de software técnico y administrativo, infraestructura tecnológica, logística de traslado de muestras y actividades de negociación para un proyecto geocientífico de gran escala.**
+Durante mi etapa en **Plenumsoft Energy & Sustainability**, participé como **Gerente Técnico del proyecto integral de la Litoteca Nacional de la Industria de Hidrocarburos, sede Yucatán**. Trabajé con la dirección, **tres líderes de proyecto** y los equipos responsables de desarrollo de software, infraestructura e instalación.
 
+La Litoteca Nacional Yucatán **fue inaugurada el 26 de junio de 2019** y se convirtió en un centro especializado para el resguardo, organización y consulta de muestras geológicas e información de la industria de hidrocarburos.
 
-## Vista general del proyecto
+Este proyecto es representativo de mi experiencia en **dirección tecnológica más allá del software**: coordinación de equipos, sistemas, infraestructura, logística y proveedores.
 
-![Recreación visual de las instalaciones de la Litoteca Nacional Yucatán](docs/assets/litoteca-instalaciones.png)
+## El proyecto
 
-## Sistema Kalan-Tun
+La sede Yucatán integra muestras físicas con información digital para apoyar la consulta, conservación e investigación geológica. Al momento de su inauguración, la CNH informó que la instalación resguardaba **alrededor de 183 mil cajas de muestras** y tenía **capacidad para un millón de cajas**.
 
-![Tablero de Kalan-Tun](docs/assets/kalan-tun-dashboard.png)
+El proyecto contó con la participación de varias instituciones y empresas, entre ellas Plenumsoft Energy & Sustainability.
 
-*Recreación de interfaz asistida por IA basada en una captura histórica. Algunos textos, cifras y elementos visuales pueden diferir del sistema original.*
+![Representación visual de las instalaciones de la Litoteca Nacional Yucatán](docs/assets/litoteca-instalaciones.png)
 
-## Contexto
+*Ilustración recreada del proyecto; no es una fotografía de las instalaciones.*
 
-La presentación **«Litoteca Nacional Yucatán PCTY»**, preparada para una visita al IMP el 22 de noviembre de 2019, documenta el proyecto de la Litoteca Nacional de la Industria de Hidrocarburos, sede Yucatán, desarrollado por el **Consorcio Geocientífico Yucatán**.
+## Mi participación
 
-El proyecto contempló un centro especializado para el resguardo y consulta de muestras geológicas y la prestación de servicios como cortes de muestras, elaboración de láminas delgadas e imágenes digitales de alta resolución (págs. 2–6).
+Como **Gerente Técnico del proyecto integral**, coordiné actividades en diferentes áreas junto con la dirección y los líderes de proyecto:
 
-## Mi responsabilidad: Gerencia Técnica
+- **Software técnico:** gestión de información de muestras, consulta y trazabilidad de estudios.
+- **Software administrativo:** procesos de operación, administración y control.
+- **Infraestructura:** servidores, almacenamiento, redes, conectividad, videovigilancia y control de acceso.
+- **Logística:** coordinación del componente relacionado con traslado, organización y resguardo de muestras.
+- **Gestión de proyecto:** seguimiento técnico, evaluación de proveedores, propuestas, presupuestos y participación en negociaciones.
 
-Durante mi participación en Plenumsoft, desempeñé funciones de **Gerente Técnico del proyecto integral**, en coordinación con el director, tres líderes de proyecto y los equipos de desarrollo de software e instalación.
+El principal reto de esta responsabilidad fue **integrar disciplinas y equipos con necesidades técnicas y operativas distintas**.
 
-Las áreas bajo mi coordinación incluyeron:
+## Sistemas y componentes
 
-- **Software técnico:** gestión de información de muestras, trazabilidad y servicios.
-- **Software administrativo:** procesos de operación, recursos y control administrativo.
-- **Infraestructura:** servidores, almacenamiento, telecomunicaciones, seguridad y control de acceso.
-- **Logística:** coordinación de actividades asociadas al traslado y organización de muestras.
-- **Gestión de proyecto:** negociaciones y participación coordinada en la evaluación de proveedores, propuestas técnicas y presupuestos.
-
-## Componentes del proyecto
-
-| Componente | Alcance documentado | Detalle |
+| Componente | Trabajo y funcionalidad | Detalle |
 | --- | --- | --- |
-| **Kalan-Tun** | Sistema técnico y administrativo para la operación de litotecas | [Software y procesos](docs/KALAN-TUN.md) |
-| **Traslado de muestras** | Plan de traslado, control, validación, seguimiento y resguardo | [Logística y trazabilidad](docs/TRASLADO-Y-TRAZABILIDAD.md) |
-| **Infraestructura tecnológica** | CCTV, control de acceso, conectividad, servidores y redes | [Infraestructura](docs/INFRAESTRUCTURA.md) |
+| **Kalan-Tun** | Plataforma de información técnica y administración para la litoteca. | [Software y procesos](docs/KALAN-TUN.md) |
+| **Traslado y trazabilidad** | Organización, control y seguimiento de muestras y su movimiento. | [Logística y trazabilidad](docs/TRASLADO-Y-TRAZABILIDAD.md) |
+| **Infraestructura tecnológica** | Seguridad, conectividad, servidores, almacenamiento y redes. | [Infraestructura](docs/INFRAESTRUCTURA.md) |
 
-### Kalan-Tun: información y operación
+### Kalan-Tun
 
-Plataforma para centralizar y ordenar información de muestras, apoyar la integridad de datos y la trazabilidad de estudios, facilitar servicios básicos y cubrir procesos administrativos.
+Participé en la coordinación del frente de software relacionado con **Kalan-Tun**, diseñado para apoyar la gestión de información de muestras, trazabilidad de estudios, servicios y necesidades administrativas de la litoteca.
 
-### Traslado y control de muestras
+![Representación visual del tablero de Kalan-Tun](docs/assets/kalan-tun-dashboard.png)
 
-Traslado de **183,002 cajas**: 59,346 desde Ciudad del Carmen y 123,656 desde Comalcalco.
+*Recreación visual basada en una captura histórica; puede diferir de la interfaz original.*
 
-El flujo descrito incluye importación de datos, configuración de transporte, validación de carga, seguimiento de vehículos y resguardo (págs. 9–13).
+### Traslado de muestras
+
+La operación requirió trasladar y organizar un importante acervo de muestras geológicas procedentes de otras instalaciones. El plan técnico que trabajamos contemplaba **183,002 cajas** desde Ciudad del Carmen y Comalcalco, mientras que la información pública de la inauguración confirma que la sede Yucatán ya resguardaba aproximadamente **183 mil cajas** en junio de 2019.
+
+Mi participación se centró en la **coordinación del componente tecnológico y logístico**, junto con los responsables de los demás frentes de trabajo.
+
+[Conocer el traslado y la trazabilidad](docs/TRASLADO-Y-TRAZABILIDAD.md)
 
 ### Infraestructura especializada
 
-Proyectos de CCTV, control de acceso, enlace de datos con CNH/CNIH y equipamiento de servidores, almacenamiento y redes. Instalación de **38 cámaras**; otros elementos se describen como especificaciones o componentes contemplados.
+El proyecto incorporó sistemas de seguridad física, videovigilancia, conectividad, almacenamiento y redes. La documentación técnica registra la instalación de **38 cámaras de videovigilancia**, además de otras soluciones de infraestructura contempladas para el funcionamiento de la sede.
 
-## Evidencia y alcance
+[Conocer la infraestructura tecnológica](docs/INFRAESTRUCTURA.md)
 
-- **Código fuente:** no disponible en este repositorio.
-- **Métricas:** se conservan las cifras y su contexto documental; no se inventan indicadores de impacto.
-- **Material visual:** Las dos imágenes incluidas son recreaciones asistidas por IA, no pruebas exactas de instalaciones o pantallas originales.
+## Lo que representa en mi trayectoria
 
-## Naturaleza de este repositorio
+Mi participación en la Litoteca Nacional Yucatán consolidó experiencia en **gerencia técnica integral**, al coordinar software, infraestructura, logística y proveedores en un proyecto industrial ejecutado.
 
-Este repositorio es un **caso de estudio profesional**, no una distribución del software Kalan-Tun, ni un repositorio de código de infraestructura. No incluye datos de muestras, información operativa confidencial, credenciales, configuraciones de seguridad ni código propietario.
+Trabajé con profesionales de distintas disciplinas y coordiné la articulación entre las necesidades operativas y las soluciones tecnológicas.
+
+## El proyecto en medios
+
+- [El Financiero — Yucatán tiene la litoteca con las mejores prácticas del mundo (26 de junio de 2019)](https://www.elfinanciero.com.mx/peninsula/yucatan-tiene-la-litoteca-con-las-mejores-practicas-del-mundo/)
+- [Comisión Nacional de Hidrocarburos — Inauguración de la Litoteca Nacional, sede Yucatán](https://www.gob.mx/cnh/prensa/comunicado-de-prensa-002-emitido-por-la-cnh?idiom=es)
+
+## Sobre las imágenes y el proyecto
+
+Las imágenes incluidas son recreaciones para ilustrar el caso. El proyecto fue desarrollado por un consorcio de organizaciones y sus tecnologías pertenecen a sus respectivos titulares. Este repositorio presenta mi participación profesional sin distribuir software ni datos internos.
 
 ---
 
-[← Perfil profesional](https://github.com/isaiassolis)
+[← Volver a mi portafolio profesional](https://github.com/isaiassolis)
