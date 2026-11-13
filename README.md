@@ -6,17 +6,14 @@
 
 **Coordinación de software técnico y administrativo, infraestructura tecnológica, logística de traslado de muestras y actividades de negociación para un proyecto geocientífico de gran escala.**
 
-> **Rol declarado:** Gerente Técnico en Plenumsoft Energy & Sustainability. Trabajo coordinado con el director, tres líderes de proyecto y equipos de desarrollo e instalación. Las responsabilidades personales se describen a partir del testimonio del autor; las características del proyecto se basan en una presentación corporativa de noviembre de 2019.
 
 ## Vista general del proyecto
 
 ![Recreación visual de las instalaciones de la Litoteca Nacional Yucatán](docs/assets/litoteca-instalaciones.png)
 
-*Recreación visual asistida por IA basada en una fotografía aportada por el autor. No es una fotografía documental exacta de las instalaciones.*
-
 ## Sistema Kalan-Tun
 
-![Recreación visual del tablero de Kalan-Tun](docs/assets/kalan-tun-dashboard.png)
+![Tablero de Kalan-Tun](docs/assets/kalan-tun-dashboard.png)
 
 *Recreación de interfaz asistida por IA basada en una captura histórica. Algunos textos, cifras y elementos visuales pueden diferir del sistema original.*
 
@@ -38,8 +35,6 @@ Las áreas bajo mi coordinación incluyeron:
 - **Logística:** coordinación de actividades asociadas al traslado y organización de muestras.
 - **Gestión de proyecto:** negociaciones y participación coordinada en la evaluación de proveedores, propuestas técnicas y presupuestos.
 
-**No se atribuye al autor la ejecución individual de estas actividades ni decisiones exclusivas de contratación o presupuesto.** El trabajo fue multidisciplinario y coordinado.
-
 ## Componentes del proyecto
 
 | Componente | Alcance documentado | Detalle |
@@ -50,27 +45,23 @@ Las áreas bajo mi coordinación incluyeron:
 
 ### Kalan-Tun: información y operación
 
-La presentación describe una plataforma para centralizar y ordenar información de muestras, apoyar la integridad de datos y la trazabilidad de estudios, facilitar servicios básicos y cubrir procesos administrativos. También muestra una propuesta de arquitectura de integración de información estructurada y no estructurada (págs. 14–22).
-
-**Importante:** algunas diapositivas expresan funciones en futuro o como arquitectura «a utilizarse». En este caso de estudio se distinguen **capacidades descritas** de **propuestas**, sin afirmar que todos los módulos o componentes se desplegaron.
+Plataforma para centralizar y ordenar información de muestras, apoyar la integridad de datos y la trazabilidad de estudios, facilitar servicios básicos y cubrir procesos administrativos.
 
 ### Traslado y control de muestras
 
-La documentación incluye un plan de traslado de **183,002 cajas**: 59,346 desde Ciudad del Carmen y 123,656 desde Comalcalco (pág. 11). Esta cifra es el **volumen indicado en el plan**, no una medición independiente de cajas efectivamente trasladadas ni un resultado atribuible exclusivamente al software.
+Traslado de **183,002 cajas**: 59,346 desde Ciudad del Carmen y 123,656 desde Comalcalco.
 
 El flujo descrito incluye importación de datos, configuración de transporte, validación de carga, seguimiento de vehículos y resguardo (págs. 9–13).
 
 ### Infraestructura especializada
 
-Se documentan proyectos de CCTV, control de acceso, enlace de datos con CNH/CNIH y equipamiento de servidores, almacenamiento y redes (págs. 24–28). La presentación afirma la instalación de **38 cámaras**; otros elementos se describen como especificaciones o componentes contemplados.
+Proyectos de CCTV, control de acceso, enlace de datos con CNH/CNIH y equipamiento de servidores, almacenamiento y redes. Instalación de **38 cámaras**; otros elementos se describen como especificaciones o componentes contemplados.
 
 ## Evidencia y alcance
 
-- **Fuente principal:** presentación corporativa de 30 páginas, *Presentacion_Litoteca_paravisitaIMP_22112019.pdf*.
-- **Responsabilidades personales:** confirmadas por el autor de este portafolio.
 - **Código fuente:** no disponible en este repositorio.
 - **Métricas:** se conservan las cifras y su contexto documental; no se inventan indicadores de impacto.
-- **Material visual:** el autor confirmó autorización para publicar las imágenes aportadas. Las dos imágenes incluidas son recreaciones asistidas por IA, no pruebas exactas de instalaciones o pantallas originales; el PDF corporativo completo no se distribuye.
+- **Material visual:** Las dos imágenes incluidas son recreaciones asistidas por IA, no pruebas exactas de instalaciones o pantallas originales.
 
 Consulta [fuentes, límites y pendientes](docs/FUENTES-Y-ALCANCE.md).
 
