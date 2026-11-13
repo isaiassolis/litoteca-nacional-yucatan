@@ -63,8 +63,6 @@ Proyectos de CCTV, control de acceso, enlace de datos con CNH/CNIH y equipamient
 - **Métricas:** se conservan las cifras y su contexto documental; no se inventan indicadores de impacto.
 - **Material visual:** Las dos imágenes incluidas son recreaciones asistidas por IA, no pruebas exactas de instalaciones o pantallas originales.
 
-Consulta [fuentes, límites y pendientes](docs/FUENTES-Y-ALCANCE.md).
-
 ## Naturaleza de este repositorio
 
 Este repositorio es un **caso de estudio profesional**, no una distribución del software Kalan-Tun, ni un repositorio de código de infraestructura. No incluye datos de muestras, información operativa confidencial, credenciales, configuraciones de seguridad ni código propietario.
