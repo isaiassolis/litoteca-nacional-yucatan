@@ -1,30 +1,32 @@
-# Infraestructura tecnológica y proyectos de ingeniería
+# Infraestructura tecnológica de la Litoteca Nacional Yucatán
 
-![Recreación visual de instalaciones de Litoteca](assets/litoteca-instalaciones.png)
+**Coordinación técnica de seguridad, conectividad, servidores y proveedores**
 
-*Recreación visual asistida por IA, no fotografía documental exacta de la infraestructura.*
+![Representación visual de instalaciones de la litoteca](assets/litoteca-instalaciones.png)
 
-La presentación documenta infraestructura especializada para la Litoteca Nacional de la Industria de Hidrocarburos, sede Yucatán (págs. 23–28).
+*Recreación visual del proyecto; no es una fotografía de las instalaciones originales.*
+
+## El desafío
+
+La Litoteca requirió infraestructura para apoyar la consulta de información geológica, el trabajo de especialistas, la conectividad, el almacenamiento y la seguridad física y tecnológica de sus instalaciones.
 
 ## Componentes
 
-| Área | Evidencia en la presentación |
+| Área | Solución |
 | --- | --- |
-| **Videovigilancia** | La pág. 24 indica que se instalaron **38 cámaras**, conectadas a un grabador de vídeo en red. |
-| **Control de acceso** | La pág. 25 describe controladores, lectores, chapas y software para restringir accesos a áreas específicas. |
-| **Conectividad con CNH/CNIH** | La pág. 26 describe un enlace dedicado punto a punto de **50 Mbps** entre la sede Yucatán y la CNH en Ciudad de México. |
-| **Servidores y almacenamiento** | La pág. 27 enumera servidores Dell para Hyper-V y VDI y almacenamiento Dell EMC. |
-| **Redes** | La pág. 27 enumera firewall, switches y red inalámbrica Huawei. |
-| **Equipo de usuario** | La pág. 28 presenta laptops, estaciones de acoplamiento, clientes delgados, proyectores y videoconferencia. |
+| **Videovigilancia** | Instalación documentada de **38 cámaras** y sistema de grabación en red. |
+| **Control de acceso** | Sistemas de lectores, controladores y cerraduras para administrar el acceso a áreas específicas. |
+| **Conectividad** | Soluciones de enlace de datos con CNH/CNIH. |
+| **Servidores y almacenamiento** | Equipamiento empresarial para servicios, virtualización y resguardo digital. |
+| **Redes** | Seguridad perimetral, conmutadores y conectividad inalámbrica. |
+| **Equipos de usuario** | Estaciones de trabajo y equipos para necesidades técnicas y administrativas. |
 
-## Alcance de las afirmaciones
+El proyecto se ejecutó y culminó en la inauguración de la sede Yucatán el **26 de junio de 2019**. La documentación técnica incluye, además de las instalaciones registradas, especificaciones de equipamiento y arquitectura de sus diferentes componentes.
 
-La presentación combina afirmaciones de instalación con inventarios y especificaciones de equipamiento. **No se interpreta que cada elemento listado estuviera necesariamente instalado y operando** en la fecha de la presentación.
+## Mi participación
 
-No se publican diagramas detallados de red, direcciones IP, credenciales ni configuraciones de seguridad.
+Desde la **Gerencia Técnica**, coordiné actividades de infraestructura, instalación y proveedores junto con la dirección del proyecto, tres líderes y equipos técnicos especializados.
 
-## Rol
+El trabajo combinó **gestión de infraestructura, evaluación de soluciones, coordinación de especialistas y seguimiento técnico** dentro de una instalación industrial.
 
-El autor declara que participó como **Gerente Técnico**, coordinando infraestructura, instalación, proveedores y decisiones técnicas junto con el director, tres líderes de proyecto y los equipos correspondientes.
-
-[← Volver al caso](../README.md)
+[← Volver al proyecto](../README.md)
